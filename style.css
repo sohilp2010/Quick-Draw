@@ -13,3 +13,11 @@
 #sketch{
     font-size: 20;
 }
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+}
